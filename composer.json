@@ -1,13 +1,7 @@
 {
-  "name": "noroman/bestchange",
+  "name": "player0k/bestchange_ru_api_php",
   "type": "library",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Roman Novikov",
-      "email": "service.for.roman@gmail.com"
-    }
-  ],
   "minimum-stability": "stable",
   "require": {},
   "autoload": {
